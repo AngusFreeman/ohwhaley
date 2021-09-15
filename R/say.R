@@ -1,10 +1,10 @@
 #' Title
 #'
 #' @description Function to make you feel better
-#' @param what; you can enter one of the set messages
+#' @param what you can enter one of the set messages
 #'
 #' @return Test String with funny whale message
-#' @export(say)
+#' @export
 #'
 #' @examples
 #' say()
