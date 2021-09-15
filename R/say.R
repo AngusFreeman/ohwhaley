@@ -4,7 +4,7 @@
 #' @param what; you can enter one of the set messages
 #'
 #' @return Test String with funny whale message
-#' @export
+#' @export(say)
 #'
 #' @examples
 #' say()
