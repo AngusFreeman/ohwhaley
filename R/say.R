@@ -1,3 +1,13 @@
+#' Title
+#'
+#' @description Function to make you feel better
+#' @param what; you can enter one of the set messages
+#'
+#' @return Test String with funny whale message
+#' @export
+#'
+#' @examples
+#' say()
 say <- function(what){
   #Defining the whale ASCII
   whale = "\n            ------ \n           %s \n            ------ \n               \\\   \n                \\\  \n                 \\\
